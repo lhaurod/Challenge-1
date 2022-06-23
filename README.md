@@ -9,7 +9,7 @@ The project is very useful since you can educate yourself in a very simple way a
 * CSS
 
 ## Website
-https://github.com/lhaurod/Challenge-1.git
+[http://127.0.0.1:5500/index.html#search-engine-optimization]
 
 Users can look through the head of the page and click on top of each topic to show them a more detailed explanation about each subject.
 
